@@ -24,6 +24,17 @@ Extract features from speech signals
 - Such frames are placed in a new matrix, where each row corresponds to a frame.
 -  If the user chose a rectangular window, then the previous matrix is the final one. Else, if the user chose a hamming or hanning window, then the student should construct a hamming/hanning window of the same size as the frame size, and multiply each row of the frames matrix by this window. The student should then plot the original and the framed signal. 
 
+## sample of output:
+![image](https://user-images.githubusercontent.com/63863517/230358667-1cdfab89-96fe-47bc-aba7-559e061d6bf4.png)
+![image](https://user-images.githubusercontent.com/63863517/230359189-ac058a3f-4a49-4f24-ab09-14a64ffcdb4e.png)
+![image](https://user-images.githubusercontent.com/63863517/230359244-fb28d02f-915a-4a17-89b7-c27868e39c53.png)
+![image](https://user-images.githubusercontent.com/63863517/230359340-59bf4d68-f6b8-4f76-a49d-8cff1eb3f88c.png)
+![image](https://user-images.githubusercontent.com/63863517/230359406-eab7f5b7-8655-4fbb-9ec3-859dddfbe788.png)
+![image](https://user-images.githubusercontent.com/63863517/230359529-d11069ae-101d-418d-9623-9ea04f8a106b.png)
+![image](https://user-images.githubusercontent.com/63863517/230359616-d6a908f2-0631-414d-8531-605287c6233d.png)
+
+
+
 
 
 
