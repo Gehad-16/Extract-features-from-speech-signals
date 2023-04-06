@@ -30,8 +30,8 @@ Extract features from speech signals
 ![image](https://user-images.githubusercontent.com/63863517/230359244-fb28d02f-915a-4a17-89b7-c27868e39c53.png)
 ![image](https://user-images.githubusercontent.com/63863517/230359340-59bf4d68-f6b8-4f76-a49d-8cff1eb3f88c.png)
 ![image](https://user-images.githubusercontent.com/63863517/230359406-eab7f5b7-8655-4fbb-9ec3-859dddfbe788.png)
-![image](https://user-images.githubusercontent.com/63863517/230359529-d11069ae-101d-418d-9623-9ea04f8a106b.png)
-![image](https://user-images.githubusercontent.com/63863517/230359616-d6a908f2-0631-414d-8531-605287c6233d.png)
+|![image](https://user-images.githubusercontent.com/63863517/230359529-d11069ae-101d-418d-9623-9ea04f8a106b.png)|![image](https://user-images.githubusercontent.com/63863517/230359616-d6a908f2-0631-414d-8531-605287c6233d.png)|
+
 
 
 
